@@ -1,0 +1,6 @@
+{
+  "name": "Taiwan ETF Holdings Tracker",
+  "description": "自動爬取台灣股市ETF成分股，儲存至 Google Sheets 做為資料庫，並經由 Gmail 發送每日異動通知",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
